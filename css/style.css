@@ -74,14 +74,14 @@
   font-weight: 700;
   font-size: 26px;
 }
-.logo-text-1 {
+.logo-text-accent {
   color: var(--color-brand-1);
 }
-.logo-text-2 {
+.logo-text-dark {
   color: var(--color-brand-2);
 }
-.logo-text-3 {
-  color: var(--color-white);
+.logo-text-contrast {
+  color: var(--color-font-3-c);
 }
 
 /* ---Header--- */
